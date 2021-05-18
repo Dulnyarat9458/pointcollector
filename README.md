@@ -1,6 +1,7 @@
 # pointcollector
 project website for collect point for Software Engireering subject
-
+#########
+DATABASE = pointcollector_1 (1).sql
 #########
 member
 6103051613027	นายเกียรติก้อง จิตตรี 
