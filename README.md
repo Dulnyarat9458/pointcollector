@@ -1,2 +1,2 @@
 # pointcollector
-project website for collect point for business 
+project website for collect point for Software Engireering subject
