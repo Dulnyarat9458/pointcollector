@@ -1,2 +1,2 @@
 # pointcollector
-website for collect point for business 
+project website for collect point for business 
