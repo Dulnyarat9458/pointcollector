@@ -1,4 +1,4 @@
-# pointcollector
+# pointcollector (PHP)
 project website for collect point for Software Engireering subject
 #########
 DATABASE = pointcollector_1 (1).sql
